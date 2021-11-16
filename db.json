@@ -21,7 +21,7 @@
       "name": "Smartphone",
       "price": 4370,
       "quantity": 800,
-      "selected": true,
+      "selected": false,
       "available": true
     },
     {
