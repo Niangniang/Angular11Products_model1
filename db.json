@@ -18,19 +18,11 @@
     },
     {
       "id": 3,
-      "name": "Smartphone",
-      "price": 4370,
+      "name": "Smartphone_TMN",
+      "price": "43709000000",
       "quantity": 800,
       "selected": false,
       "available": true
-    },
-    {
-      "name": "erty",
-      "price": 0,
-      "quantity": 0,
-      "selected": true,
-      "available": true,
-      "id": 4
     }
   ]
 }
